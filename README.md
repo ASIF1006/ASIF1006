@@ -112,11 +112,13 @@ I don't just fix IT, I build infrastructure.
 
 ## &#x1F310; Let's Connect
 
+<p align="center">
 <a href="mailto:asifshaik1006@gmail.com"><img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://linkedin.com/in/smdasif"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://smdasif.com"><img src="https://img.shields.io/badge/Website-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://wa.me/966571786846"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
 
 <br/>
 
