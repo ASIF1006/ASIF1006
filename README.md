@@ -1,26 +1,20 @@
+<div align="center">
+
 <p align="center">
 <a href="https://github.com/ASIF1006">
 <img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=asif@infrastructure-specialist:~%24+cat+README.md&ps=true&height=45" width="100%" />
 </a>
 </p>
 
-<p align="center">
-
 **Hi, I'm** &#x1F44B;
 
-</p>
+# Shaik Mohammad Asif &#x1F499;
 
-<h1 align="center">
-Shaik Mohammad Asif &#x1F499;
-</h1>
-
-<p align="center">
 <i>&lt; IT Operations Specialist /&gt;</i>
-</p>
 
-<p align="center">
 I don't just fix IT, I build infrastructure.
-</p>
+
+</div>
 
 ---
 
@@ -65,15 +59,21 @@ I don't just fix IT, I build infrastructure.
 
 ---
 
-## &#x1F4CA; GitHub Stats
+## &#x1F4CA; GitHub Stats & Graphs
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ASIF1006&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASIF1006&theme=radical&hide_border=true&include_all_commits=true&date_format=j%20M%5B%20Y%5D" width="48%" />
+<img src="./asif-stats.svg?v=1" alt="GitHub Stats" height="185"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASIF1006&theme=radical&hide_border=true&include_all_commits=true&date_format=j%20M%5B%20Y%5D" height="185"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASIF1006&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" />
+</p>
+
+<br/>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASIF1006&bg_color=0d1117&color=00BFFF&line=0078D4&point=00BFFF&area=true&area_color=0078D4&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
 </p>
 
 ---
@@ -81,7 +81,7 @@ I don't just fix IT, I build infrastructure.
 ## &#x1F3C6; Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ASIF1006&theme=radical&no-frame=false&no-bg=true&column=7&margin-w=10" width="100%" />
+<img src="./asif-trophies.svg?v=1" alt="Trophies" width="95%"/>
 </p>
 
 ---
@@ -91,6 +91,14 @@ I don't just fix IT, I build infrastructure.
 | Project | Tech | About |
 |---------|------|-------|
 | [Portfolio](https://github.com/ASIF1006/Portfolio) | HTML | Personal portfolio website - smdasif.com |
+
+---
+
+## &#x1F40D; Watch the snake eat my contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ASIF1006/ASIF1006/output/github-snake-blue.svg" alt="Contribution snake"/>
+</p>
 
 ---
 
@@ -104,7 +112,13 @@ I don't just fix IT, I build infrastructure.
 <a href="https://wa.me/966571786846"><img src="https://img.shields.io/badge/WhatsApp-+966571786846-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
----
+<br/>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ASIF1006&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
+
+<br/>
 
 <p align="center">
 <i>"Infrastructure is my canvas, automation is my superpower."</i> &#x1F499;
