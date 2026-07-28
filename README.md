@@ -74,12 +74,6 @@ I don't just fix IT, I build infrastructure.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASIF1006&theme=radical&hide_border=true&include_all_commits=true&date_format=j%20M%5B%20Y%5D" height="185"/>
 </p>
 
-<br/>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASIF1006&bg_color=0d1117&color=00BFFF&line=0078D4&point=00BFFF&area=true&area_color=0078D4&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
-</p>
-
 ---
 
 ## &#x1F3C6; Trophies
