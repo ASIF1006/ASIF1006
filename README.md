@@ -74,9 +74,23 @@ I don't just fix IT, I build infrastructure.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASIF1006&theme=radical&hide_border=true&include_all_commits=true&date_format=j%20M%5B%20Y%5D" height="185"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/PowerShell-0078D4?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/><img src="https://img.shields.io/badge/VMware-607070?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/><img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Intune"/><img src="https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCCM"/></a>
-</p>
+<table><tr>
+<td><a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/PowerShell-0078D4?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></a></td>
+<td><a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a></td>
+<td><a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a></td>
+<td><a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a></td>
+<td><a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a></td>
+</tr><tr>
+<td><a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/></a></td>
+<td><a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a></td>
+<td><a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a></td>
+<td><a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/VMware-607070?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/></a></td>
+<td><a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/></a></td>
+</tr><tr>
+<td><a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Intune"/></a></td>
+<td><a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/SCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCCM"/></a></td>
+<td></td><td></td><td></td>
+</tr></table>
 
 <br/>
 
