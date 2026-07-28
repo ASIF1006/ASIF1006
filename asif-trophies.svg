@@ -15,7 +15,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <g class="cell" style="animation-delay:0.30s">
     <rect x="12" y="12" width="168" height="144" rx="14" fill="#0d1117" stroke="#00BFFF" stroke-opacity=".55" stroke-width="1.3"/>
     <text x="96.0" y="52" text-anchor="middle" font-size="30">&#x1F3E2;</text>
-    <text class="rk" x="164" y="40" text-anchor="end" font-size="24" font-weight="bold" fill="#00BFFF" style="animation-delay:0.70s">B</text>
+    <text class="rk" x="164" y="40" text-anchor="end" font-size="24" font-weight="bold" fill="#00BFFF" style="animation-delay:0.70s">A</text>
     <text x="96.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">IT Ops Pro</text>
     <text x="96.0" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">6+ Years Exp</text>
     <rect x="30" y="124" width="132" height="5" rx="2.5" fill="#161b22"/>
@@ -26,7 +26,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <g class="cell" style="animation-delay:0.48s">
     <rect x="192" y="12" width="168" height="144" rx="14" fill="#0d1117" stroke="#fde047" stroke-opacity=".55" stroke-width="1.3"/>
     <text x="276.0" y="52" text-anchor="middle" font-size="30">&#x2B50;</text>
-    <text class="rk" x="344" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#fde047" style="animation-delay:0.88s">S</text>
+    <text class="rk" x="344" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#fde047" style="animation-delay:0.88s">B</text>
     <text x="276.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Starstruck</text>
     <text x="276.0" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">GitHub Badge</text>
     <rect x="210" y="124" width="132" height="5" rx="2.5" fill="#161b22"/>
@@ -37,7 +37,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <g class="cell" style="animation-delay:0.66s">
     <rect x="372" y="12" width="168" height="144" rx="14" fill="#0d1117" stroke="#0078D4" stroke-opacity=".55" stroke-width="1.3"/>
     <text x="456.0" y="52" text-anchor="middle" font-size="30">&#x1F4BB;</text>
-    <text class="rk" x="524" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#0078D4" style="animation-delay:1.06s">A</text>
+    <text class="rk" x="524" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#0078D4" style="animation-delay:1.06s">C</text>
     <text x="456.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">CCNA Certified</text>
     <text x="456.0" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Cisco Network</text>
     <rect x="390" y="124" width="132" height="5" rx="2.5" fill="#161b22"/>
@@ -48,7 +48,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <g class="cell" style="animation-delay:0.84s">
     <rect x="552" y="12" width="168" height="144" rx="14" fill="#0d1117" stroke="#c084fc" stroke-opacity=".55" stroke-width="1.3"/>
     <text x="636.0" y="52" text-anchor="middle" font-size="30">&#x1F527;</text>
-    <text class="rk" x="704" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#c084fc" style="animation-delay:1.24s">A</text>
+    <text class="rk" x="704" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#c084fc" style="animation-delay:1.24s">B</text>
     <text x="636.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Automation</text>
     <text x="636.0" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">PowerShell Expert</text>
     <rect x="570" y="124" width="132" height="5" rx="2.5" fill="#161b22"/>
@@ -59,7 +59,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <g class="cell" style="animation-delay:1.02s">
     <rect x="732" y="12" width="168" height="144" rx="14" fill="#0d1117" stroke="#7dd3fc" stroke-opacity=".55" stroke-width="1.3"/>
     <text x="816.0" y="52" text-anchor="middle" font-size="30">&#x1F310;</text>
-    <text class="rk" x="884" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#7dd3fc" style="animation-delay:1.42s">A</text>
+    <text class="rk" x="884" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#7dd3fc" style="animation-delay:1.42s">C</text>
     <text x="816.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">Infrastructure</text>
     <text x="816.0" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Networks &amp; Servers</text>
     <rect x="750" y="124" width="132" height="5" rx="2.5" fill="#161b22"/>
@@ -70,7 +70,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <g class="cell" style="animation-delay:1.20s">
     <rect x="912" y="12" width="168" height="144" rx="14" fill="#0d1117" stroke="#4ade80" stroke-opacity=".55" stroke-width="1.3"/>
     <text x="996.0" y="52" text-anchor="middle" font-size="30">&#x1F680;</text>
-    <text class="rk" x="1064" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#4ade80" style="animation-delay:1.60s">B</text>
+    <text class="rk" x="1064" y="40" text-anchor="end" font-size="30" font-weight="bold" fill="#4ade80" style="animation-delay:1.60s">A</text>
     <text x="996.0" y="90" text-anchor="middle" font-size="14" font-weight="bold" fill="#e6edf3">AI Explorer</text>
     <text x="996.0" y="112" text-anchor="middle" font-size="11" fill="#9aa4b2">Always Learning</text>
     <rect x="930" y="124" width="132" height="5" rx="2.5" fill="#161b22"/>
