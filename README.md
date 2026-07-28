@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/ASIF1006">
-<img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=asif@infrastructure-specialist:~$+cat+README.md&ps=true&height=45" width="100%" />
+<img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=asif@infrastructure-specialist:~%24+cat+README.md&ps=true&height=45" width="100%" />
 </a>
 </p>
 
@@ -68,12 +68,12 @@ I don't just fix IT, I build infrastructure.
 ## &#x1F4CA; GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ASIF1006&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASIF1006&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ASIF1006&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASIF1006&theme=radical&hide_border=true&include_all_commits=true&date_format=j%20M%5B%20Y%5D" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASIF1006&layout=compact&theme=radical&hide_border=true" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASIF1006&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ I don't just fix IT, I build infrastructure.
 ## &#x1F3C6; Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ASIF1006&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ASIF1006&theme=radical&no-frame=false&no-bg=true&column=7&margin-w=10" width="100%" />
 </p>
 
 ---
@@ -91,14 +91,6 @@ I don't just fix IT, I build infrastructure.
 | Project | Tech | About |
 |---------|------|-------|
 | [Portfolio](https://github.com/ASIF1006/Portfolio) | HTML | Personal portfolio website - smdasif.com |
-
----
-
-## &#x1F40D; Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/ASIF1006/ASIF1006/output/github-snake-dark.svg" width="100%" />
-</p>
 
 ---
 
