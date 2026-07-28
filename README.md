@@ -15,7 +15,7 @@ Shaik Mohammad Asif &#x1F499;
 </h1>
 
 <p align="center">
-<b>&lt; IT Operations Specialist /&gt;</b>
+<i>&lt; IT Operations Specialist /&gt;</i>
 </p>
 
 <p align="center">
