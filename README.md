@@ -89,7 +89,7 @@ I don't just fix IT, I build infrastructure.
 ## &#x1F3C6; Trophies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ASIF1006/ASIF1006/main/asif-trophies.svg" alt="Trophies" width="95%"/>
+<img src="./asif-trophies.svg?v=3" alt="Trophies" width="95%"/>
 </p>
 
 ---
