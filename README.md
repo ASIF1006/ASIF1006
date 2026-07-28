@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/ASIF1006">
-<img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=asif@infrastructure-specialist:~%24+cat+README.md&ps=true&height=45" width="100%" />
+<img src="https://js-readme-typing-svg.vercel.app/svg?fontFamily=Fira+Code&fontSize=18&color=00BFFF&horizontalAlign=center&verticalAlign=middle&width=600&height=45&lines=asif@infrastructure-specialist:~%24+cat+README.md&repeat=true&cursor=block&printSpeed=30" width="100%" />
 </a>
 </p>
 
@@ -75,7 +75,7 @@ I don't just fix IT, I build infrastructure.
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASIF1006&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" />
+<img src="./asif-langs.svg" height="185"/>
 </p>
 
 <br/>
@@ -113,11 +113,11 @@ I don't just fix IT, I build infrastructure.
 ## &#x1F310; Let's Connect
 
 <p align="center">
-<a href="mailto:asifshaik1006@gmail.com"><img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/smdasif"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://smdasif.com"><img src="https://img.shields.io/badge/Website-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-<a href="https://wa.me/966571786846"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="mailto:asifshaik1006@gmail.com"><img src="https://img.shields.io/badge/Email-asifshaik1006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><br/>
+<a href="https://linkedin.com/in/smdasif"><img src="https://img.shields.io/badge/LinkedIn-smdasif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br/>
+<a href="https://github.com/ASIF1006"><img src="https://img.shields.io/badge/GitHub-ASIF1006-181717?style=for-the-badge&logo=github&logoColor=white" /></a><br/>
+<a href="https://smdasif.com"><img src="https://img.shields.io/badge/Website-smdasif.com-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a><br/>
+<a href="https://wa.me/966571786846"><img src="https://img.shields.io/badge/WhatsApp-%2B966571786846-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -135,3 +135,4 @@ I don't just fix IT, I build infrastructure.
 <p align="center">
 &#x2B50; Always learning, always building. &#x1F499;
 </p>
+
