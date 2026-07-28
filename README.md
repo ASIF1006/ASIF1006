@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/ASIF1006">
-<img src="https://js-readme-typing-svg.vercel.app/svg?fontFamily=Fira+Code&fontSize=18&color=00BFFF&background=transparent&horizontalAlign=center&verticalAlign=middle&width=600&height=45&lines=asif%40infrastructure-specialist%3A~%24+cat+README.md&repeat=true&cursor=block&printSpeed=30" width="100%" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&color=00BFFF&center=true&width=600&height=45&lines=Hello+I'm+Shaik+Mohammad+Asif;IT+Operations+%26+Infrastructure+Specialist;Infrastructure+is+my+canvas" width="100%" />
 </a>
 </p>
 
