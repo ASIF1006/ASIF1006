@@ -15,7 +15,7 @@ Shaik Mohammad Asif &#x1F499;
 </h1>
 
 <p align="center">
-**&lt; IT Operations Specialist /&gt;**
+<b>&lt; IT Operations Specialist /&gt;</b>
 </p>
 
 <p align="center">
@@ -91,6 +91,14 @@ I don't just fix IT, I build infrastructure.
 | Project | Tech | About |
 |---------|------|-------|
 | [Portfolio](https://github.com/ASIF1006/Portfolio) | HTML | Personal portfolio website - smdasif.com |
+
+---
+
+## &#x1F40D; Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ASIF1006/ASIF1006/output/github-snake-dark.svg" width="100%" />
+</p>
 
 ---
 
