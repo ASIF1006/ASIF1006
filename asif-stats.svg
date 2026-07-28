@@ -21,35 +21,34 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <filter id="g"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect x="1" y="1" width="498" height="230" rx="14" fill="#0d1117" stroke="url(#tg)" stroke-width="1.5"/>
-<text x="24" y="38" font-size="16" font-weight="bold" fill="url(#tg)">&#x1F3E2; Asif's GitHub Stats</text>
+<text x="24" y="38" font-size="16" font-weight="bold" fill="url(#tg)">🏢 Asif's GitHub Stats</text>
 
   <g class="row" style="animation-delay:0.50s">
-    <text x="24" y="74" font-size="14">&#x2B50;</text>
+    <text x="24" y="74" font-size="14">⭐</text>
     <text x="52" y="74" font-size="13.5" fill="#c9d1d9">Total Stars Earned:</text>
     <text x="316" y="74" text-anchor="end" font-size="14" font-weight="bold" fill="#fde047">5+</text>
   </g>
   <g class="row" style="animation-delay:0.72s">
-    <text x="24" y="105" font-size="14">&#x1F4BB;</text>
+    <text x="24" y="105" font-size="14">💻</text>
     <text x="52" y="105" font-size="13.5" fill="#c9d1d9">Total Commits:</text>
     <text x="316" y="105" text-anchor="end" font-size="14" font-weight="bold" fill="#7dd3fc">27+</text>
   </g>
   <g class="row" style="animation-delay:0.94s">
-    <text x="24" y="136" font-size="14">&#x1F4E6;</text>
+    <text x="24" y="136" font-size="14">📦</text>
     <text x="52" y="136" font-size="13.5" fill="#c9d1d9">Public Repos:</text>
     <text x="316" y="136" text-anchor="end" font-size="14" font-weight="bold" fill="#4ade80">2+</text>
   </g>
   <g class="row" style="animation-delay:1.16s">
-    <text x="24" y="167" font-size="14">&#x1F465;</text>
+    <text x="24" y="167" font-size="14">👥</text>
     <text x="52" y="167" font-size="13.5" fill="#c9d1d9">Followers:</text>
     <text x="316" y="167" text-anchor="end" font-size="14" font-weight="bold" fill="#c084fc">0+</text>
   </g>
   <g class="row" style="animation-delay:1.38s">
-    <text x="24" y="198" font-size="14">&#x1F310;</text>
+    <text x="24" y="198" font-size="14">🌐</text>
     <text x="52" y="198" font-size="13.5" fill="#c9d1d9">Sites Built:</text>
     <text x="316" y="198" text-anchor="end" font-size="14" font-weight="bold" fill="#00BFFF">1</text>
   </g>
 
-<!-- Rank ring -->
 <g transform="translate(408,138)">
   <circle r="52" fill="none" stroke="#161b22" stroke-width="9"/>
   <circle r="52" fill="none" stroke="url(#ringg)" stroke-width="9" stroke-linecap="round"
